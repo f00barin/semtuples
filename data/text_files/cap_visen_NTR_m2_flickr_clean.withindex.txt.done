@@ -1,0 +1,506 @@
+90001	103106960_e8a41d64f8.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(S(NP*
+90001	103106960_e8a41d64f8.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A0	*)
+90001	103106960_e8a41d64f8.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90001	103106960_e8a41d64f8.jpg#6	4	holding	hold	       VBG	      E-VP	3	VC	        holding	       S-V	(VP*
+90001	103106960_e8a41d64f8.jpg#6	5	a	1	        DT	      B-NP	7	NMOD	              -	      B-A1	(NP(NP*
+90001	103106960_e8a41d64f8.jpg#6	6	tennis	tennis	        NN	      I-NP	7	NMOD	              -	      I-A1	*
+90001	103106960_e8a41d64f8.jpg#6	7	racket	racket	        NN	      E-NP	4	OBJ	              -	      I-A1	*)
+90001	103106960_e8a41d64f8.jpg#6	8	on	on	        IN	      S-PP	7	NMOD	              -	      I-A1	(PP*
+90001	103106960_e8a41d64f8.jpg#6	9	a	1	        DT	      B-NP	11	NMOD	              -	      I-A1	(NP*
+90001	103106960_e8a41d64f8.jpg#6	10	tennis	tennis	        NN	      I-NP	11	NMOD	              -	      I-A1	*
+90001	103106960_e8a41d64f8.jpg#6	11	court	court	        NN	      E-NP	8	PMOD	              -	      E-A1	*)))))))
+90018	1177994172_10d143cb8d.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP*
+90018	1177994172_10d143cb8d.jpg#6	2	man	man	        NN	      E-NP	7	SUB	              -	      I-A0	*)
+90018	1177994172_10d143cb8d.jpg#6	3	in	in	        IN	      S-PP	2	NMOD	              -	      I-A0	(PP*
+90018	1177994172_10d143cb8d.jpg#6	4	a	1	        DT	      B-NP	6	NMOD	              -	      I-A0	(NP*
+90018	1177994172_10d143cb8d.jpg#6	5	baseball	baseball	        NN	      I-NP	6	NMOD	              -	      I-A0	*
+90018	1177994172_10d143cb8d.jpg#6	6	uniform	uniform	        NN	      E-NP	3	PMOD	              -	      E-A0	*))
+90018	1177994172_10d143cb8d.jpg#6	7	holding	hold	       VBG	      S-VP	0	ROOT	        holding	       S-V	(VP*
+90018	1177994172_10d143cb8d.jpg#6	8	a	1	        DT	      B-NP	10	NMOD	              -	      B-A1	(NP*
+90018	1177994172_10d143cb8d.jpg#6	9	baseball	baseball	        NN	      I-NP	10	NMOD	              -	      I-A1	*
+90018	1177994172_10d143cb8d.jpg#6	10	bat	bat	        NN	      E-NP	7	OBJ	              -	      E-A1	*))))
+90022	123997871_6a9ca987b1.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP(NP*
+90022	123997871_6a9ca987b1.jpg#6	2	group	group	        NN	      E-NP	5	SUB	              -	      I-A0	*)
+90022	123997871_6a9ca987b1.jpg#6	3	of	of	        IN	      S-PP	2	NMOD	              -	      I-A0	(PP*
+90022	123997871_6a9ca987b1.jpg#6	4	men	man	       NNS	      S-NP	3	PMOD	              -	      E-A0	(NP*)))
+90022	123997871_6a9ca987b1.jpg#6	5	playing	play	       VBG	      S-VP	0	ROOT	        playing	       S-V	(VP*
+90022	123997871_6a9ca987b1.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      B-A1	(NP(NP*
+90022	123997871_6a9ca987b1.jpg#6	7	game	game	        NN	      E-NP	5	OBJ	              -	      I-A1	*)
+90022	123997871_6a9ca987b1.jpg#6	8	of	of	        IN	      S-PP	7	NMOD	              -	      I-A1	(PP*
+90022	123997871_6a9ca987b1.jpg#6	9	soccer	soccer	        NN	      S-NP	8	PMOD	              -	      E-A1	(NP*))))))
+90028	1306145560_1e37081b91.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90028	1306145560_1e37081b91.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90028	1306145560_1e37081b91.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90028	1306145560_1e37081b91.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90028	1306145560_1e37081b91.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90028	1306145560_1e37081b91.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90028	1306145560_1e37081b91.jpg#6	7	water	water	        NN	      E-NP	5	PMOD	              -	      E-A2	*))
+90028	1306145560_1e37081b91.jpg#6	8	with	with	        IN	      S-PP	4	VMOD	              -	  B-AM-MNR	(PP*
+90028	1306145560_1e37081b91.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP*
+90028	1306145560_1e37081b91.jpg#6	10	frisbee	frisbee	        NN	      E-NP	8	PMOD	              -	  E-AM-MNR	*))))))
+90029	1319634306_816f21677f.jpg#6	1	a	1	        DT	      B-NP	6	NMOD	              -	(S1(S(NP*
+90029	1319634306_816f21677f.jpg#6	2	brown	brown	        JJ	      I-NP	4	AMOD	              -	(ADJP*
+90029	1319634306_816f21677f.jpg#6	3	and	and	        CC	      I-NP	4	AMOD	              -	*
+90029	1319634306_816f21677f.jpg#6	4	white	white	        JJ	      I-NP	6	NMOD	              -	*)
+90029	1319634306_816f21677f.jpg#6	5	cow	cow	        NN	      I-NP	6	NMOD	              -	*)
+90029	1319634306_816f21677f.jpg#6	6	standing	stand	        NN	      E-NP	0	ROOT	              -	(VP*
+90029	1319634306_816f21677f.jpg#6	7	in	in	        IN	      S-PP	6	NMOD	              -	(PP*
+90029	1319634306_816f21677f.jpg#6	8	a	1	        DT	      B-NP	9	NMOD	              -	(NP*
+90029	1319634306_816f21677f.jpg#6	9	field	field	        NN	      E-NP	7	PMOD	              -	*)))))
+90031	1346051107_9cdc14e070.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90031	1346051107_9cdc14e070.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90031	1346051107_9cdc14e070.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90031	1346051107_9cdc14e070.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90031	1346051107_9cdc14e070.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90031	1346051107_9cdc14e070.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90031	1346051107_9cdc14e070.jpg#6	7	skateboard	skateboard	        NN	      E-NP	5	PMOD	              -	      E-A2	*))))
+90031	1346051107_9cdc14e070.jpg#6	8	in	in	        IN	      S-PP	7	NMOD	              -	  B-AM-LOC	(PP*
+90031	1346051107_9cdc14e070.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-LOC	(NP*
+90031	1346051107_9cdc14e070.jpg#6	10	park	park	        NN	      E-NP	8	PMOD	              -	  E-AM-LOC	*))))
+90064	1510078253_96e9ec50e7.jpg#6	1	a	1	        DT	      B-NP	3	NMOD	              -	      B-A1	(S1(S(NP*
+90064	1510078253_96e9ec50e7.jpg#6	2	brown	brown	        JJ	      I-NP	3	NMOD	              -	      I-A1	*
+90064	1510078253_96e9ec50e7.jpg#6	3	teddy	teddy	        NN	      I-NP	4	SUB	              -	      I-A1	*
+90064	1510078253_96e9ec50e7.jpg#6	4	bear	bear	        NN	      E-NP	0	ROOT	              -	      E-A1	*)
+90064	1510078253_96e9ec50e7.jpg#6	5	sitting	sit	       VBG	      S-VP	4	VMOD	        sitting	       S-V	(VP*
+90064	1510078253_96e9ec50e7.jpg#6	6	on	on	        IN	      S-PP	5	VMOD	              -	      B-A2	(PP*
+90064	1510078253_96e9ec50e7.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      I-A2	(NP*
+90064	1510078253_96e9ec50e7.jpg#6	8	couch	couch	        NN	      E-NP	6	PMOD	              -	      I-A2	*))
+90064	1510078253_96e9ec50e7.jpg#6	9	with	with	        IN	      S-PP	8	NMOD	              -	      I-A2	(PP*
+90064	1510078253_96e9ec50e7.jpg#6	10	a	1	        DT	      B-NP	12	NMOD	              -	      I-A2	(NP*
+90064	1510078253_96e9ec50e7.jpg#6	11	stuffed	stuff	        JJ	      I-NP	12	NMOD	              -	      I-A2	*
+90064	1510078253_96e9ec50e7.jpg#6	12	animal	animal	        NN	      E-NP	9	PMOD	              -	      E-A2	*)))))
+90073	166433861_70b66cd381.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP*
+90073	166433861_70b66cd381.jpg#6	2	man	man	        NN	      E-NP	0	ROOT	              -	      E-A0	*)
+90073	166433861_70b66cd381.jpg#6	3	riding	ride	       VBG	      S-VP	2	NMOD	         riding	       S-V	(VP*
+90073	166433861_70b66cd381.jpg#6	4	a	1	        DT	      B-NP	5	NMOD	              -	      B-A1	(NP*
+90073	166433861_70b66cd381.jpg#6	5	motorcycle	motorcycle	        NN	      E-NP	3	OBJ	              -	      I-A1	*)
+90073	166433861_70b66cd381.jpg#6	6	down	down	        IN	      S-PP	3	VMOD	              -	      I-A1	(PP*
+90073	166433861_70b66cd381.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      I-A1	(NP*
+90073	166433861_70b66cd381.jpg#6	8	street	street	        NN	      E-NP	6	PMOD	              -	      E-A1	*)))))
+90076	1680126311_b92a2e8e72.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP(NP*
+90076	1680126311_b92a2e8e72.jpg#6	2	group	group	        NN	      E-NP	6	SUB	              -	      I-A0	*)
+90076	1680126311_b92a2e8e72.jpg#6	3	of	of	        IN	      S-PP	2	NMOD	              -	      I-A0	(PP*
+90076	1680126311_b92a2e8e72.jpg#6	4	young	young	        JJ	      B-NP	5	NMOD	              -	      I-A0	(NP*
+90076	1680126311_b92a2e8e72.jpg#6	5	men	man	       NNS	      E-NP	3	PMOD	              -	      E-A0	*)))
+90076	1680126311_b92a2e8e72.jpg#6	6	playing	play	       VBG	      S-VP	0	ROOT	        playing	       S-V	(VP*
+90076	1680126311_b92a2e8e72.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      B-A1	(NP(NP*
+90076	1680126311_b92a2e8e72.jpg#6	8	game	game	        NN	      E-NP	6	OBJ	              -	      I-A1	*)
+90076	1680126311_b92a2e8e72.jpg#6	9	of	of	        IN	      S-PP	8	NMOD	              -	      I-A1	(PP*
+90076	1680126311_b92a2e8e72.jpg#6	10	soccer	soccer	        NN	      S-NP	9	PMOD	              -	      E-A1	(NP*))))))
+90081	1801663973_5ad393caeb.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90081	1801663973_5ad393caeb.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90081	1801663973_5ad393caeb.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90081	1801663973_5ad393caeb.jpg#6	4	sitting	sit	       VBG	      E-VP	3	VC	        sitting	       S-V	(VP*
+90081	1801663973_5ad393caeb.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90081	1801663973_5ad393caeb.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90081	1801663973_5ad393caeb.jpg#6	7	bench	bench	        NN	      E-NP	5	PMOD	              -	      E-A2	*))
+90081	1801663973_5ad393caeb.jpg#6	8	with	with	        IN	      S-PP	4	VMOD	              -	  B-AM-MNR	(PP*
+90081	1801663973_5ad393caeb.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP*
+90081	1801663973_5ad393caeb.jpg#6	10	dog	dog	        NN	      E-NP	8	PMOD	              -	  E-AM-MNR	*))))))
+90285	2589308405_e208b5e745.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(S(NP*
+90285	2589308405_e208b5e745.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A0	*)
+90285	2589308405_e208b5e745.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90285	2589308405_e208b5e745.jpg#6	4	playing	play	       VBG	      E-VP	3	VC	        playing	       S-V	(S(VP*
+90285	2589308405_e208b5e745.jpg#6	5	tennis	tennis	        NN	      S-NP	4	OBJ	              -	      S-A1	(NP(NP*)
+90285	2589308405_e208b5e745.jpg#6	6	on	on	        IN	      S-PP	4	VMOD	              -	  B-AM-LOC	(PP*
+90285	2589308405_e208b5e745.jpg#6	7	a	1	        DT	      B-NP	9	NMOD	              -	  I-AM-LOC	(NP*
+90285	2589308405_e208b5e745.jpg#6	8	tennis	tennis	        NN	      I-NP	9	NMOD	              -	  I-AM-LOC	*
+90285	2589308405_e208b5e745.jpg#6	9	court	court	        NN	      E-NP	6	PMOD	              -	  E-AM-LOC	*))))))))
+90306	2637904605_fc355816fc.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90306	2637904605_fc355816fc.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90306	2637904605_fc355816fc.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90306	2637904605_fc355816fc.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90306	2637904605_fc355816fc.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90306	2637904605_fc355816fc.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90306	2637904605_fc355816fc.jpg#6	7	grass	grass	        NN	      E-NP	5	PMOD	              -	      E-A2	*))
+90306	2637904605_fc355816fc.jpg#6	8	with	with	        IN	      S-PP	4	VMOD	              -	  B-AM-MNR	(PP*
+90306	2637904605_fc355816fc.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP*
+90306	2637904605_fc355816fc.jpg#6	10	frisbee	frisbee	        NN	      E-NP	8	PMOD	              -	  E-AM-MNR	*))))))
+90322	2675397335_1dcdbd12f5.jpg#6	1	a	1	        DT	      B-NP	5	NMOD	              -	      B-A1	(S1(S(NP*
+90322	2675397335_1dcdbd12f5.jpg#6	2	black	black	        JJ	      I-NP	4	AMOD	              -	      I-A1	*
+90322	2675397335_1dcdbd12f5.jpg#6	3	and	and	        CC	      I-NP	4	AMOD	              -	      I-A1	*
+90322	2675397335_1dcdbd12f5.jpg#6	4	white	white	        JJ	      I-NP	5	NMOD	              -	      I-A1	*
+90322	2675397335_1dcdbd12f5.jpg#6	5	dog	dog	        NN	      E-NP	6	SUB	              -	      E-A1	*)
+90322	2675397335_1dcdbd12f5.jpg#6	6	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90322	2675397335_1dcdbd12f5.jpg#6	7	standing	stand	       VBG	      E-VP	6	VC	       standing	       S-V	(VP*
+90322	2675397335_1dcdbd12f5.jpg#6	8	on	on	        IN	      S-PP	7	VMOD	              -	      B-A2	(PP*
+90322	2675397335_1dcdbd12f5.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90322	2675397335_1dcdbd12f5.jpg#6	10	field	field	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))))
+90328	269650644_059a84ece5.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(S(NP(NP*
+90328	269650644_059a84ece5.jpg#6	2	group	group	        NN	      E-NP	5	SUB	              -	      I-A0	*)
+90328	269650644_059a84ece5.jpg#6	3	of	of	        IN	      S-PP	2	NMOD	              -	      I-A0	(PP*
+90328	269650644_059a84ece5.jpg#6	4	people	people	       NNS	      S-NP	3	PMOD	              -	      E-A0	(NP*)))
+90328	269650644_059a84ece5.jpg#6	5	walking	walk	       VBG	      S-VP	0	ROOT	        walking	       B-V	(VP*
+90328	269650644_059a84ece5.jpg#6	6	down	down	        RP	     S-PRT	5	VMOD	              -	       E-V	(ADVP*)
+90328	269650644_059a84ece5.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      B-A1	(NP(NP*
+90328	269650644_059a84ece5.jpg#6	8	street	street	        NN	      E-NP	5	OBJ	              -	      E-A1	*)
+90328	269650644_059a84ece5.jpg#6	9	with	with	        IN	      S-PP	5	VMOD	              -	  B-AM-MNR	(PP*
+90328	269650644_059a84ece5.jpg#6	10	umbrellas	umbrella	       NNS	      S-NP	9	PMOD	              -	  E-AM-MNR	(NP*))))))
+90334	2714220101_c31db50b10.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90334	2714220101_c31db50b10.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90334	2714220101_c31db50b10.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90334	2714220101_c31db50b10.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90334	2714220101_c31db50b10.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90334	2714220101_c31db50b10.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90334	2714220101_c31db50b10.jpg#6	7	beach	beach	        NN	      E-NP	5	PMOD	              -	      E-A2	*))
+90334	2714220101_c31db50b10.jpg#6	8	with	with	        IN	      S-PP	4	VMOD	              -	  B-AM-MNR	(PP*
+90334	2714220101_c31db50b10.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP(NP*
+90334	2714220101_c31db50b10.jpg#6	10	frisbee	frisbee	        NN	      E-NP	8	PMOD	              -	  I-AM-MNR	*)
+90334	2714220101_c31db50b10.jpg#6	11	in	in	        IN	      S-PP	10	NMOD	              -	  I-AM-MNR	(PP*
+90334	2714220101_c31db50b10.jpg#6	12	its	its	      PRP$	      B-NP	13	NMOD	              -	  I-AM-MNR	(NP*
+90334	2714220101_c31db50b10.jpg#6	13	mouth	mouth	        NN	      E-NP	11	PMOD	              -	  E-AM-MNR	*))))))))
+90352	2768662025_44001fe5d1.jpg#6	1	a	1	        DT	      B-NP	3	NMOD	              -	      B-A1	(S1(S(NP*
+90352	2768662025_44001fe5d1.jpg#6	2	young	young	        JJ	      I-NP	3	NMOD	              -	      I-A1	*
+90352	2768662025_44001fe5d1.jpg#6	3	boy	boy	        NN	      E-NP	4	SUB	              -	      E-A1	*)
+90352	2768662025_44001fe5d1.jpg#6	4	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90352	2768662025_44001fe5d1.jpg#6	5	sitting	sit	       VBG	      E-VP	4	VC	        sitting	       S-V	(VP*
+90352	2768662025_44001fe5d1.jpg#6	6	on	on	        IN	      S-PP	5	VMOD	              -	      B-A2	(PP*
+90352	2768662025_44001fe5d1.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      I-A2	(NP*
+90352	2768662025_44001fe5d1.jpg#6	8	skateboard	skateboard	        NN	      E-NP	6	PMOD	              -	      E-A2	*))))))
+90365	2815755985_0fa55544c0.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90365	2815755985_0fa55544c0.jpg#6	2	woman	woman	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90365	2815755985_0fa55544c0.jpg#6	3	sitting	sit	       VBG	      S-VP	0	ROOT	        sitting	       S-V	(VP*
+90365	2815755985_0fa55544c0.jpg#6	4	on	on	        IN	      S-PP	3	VMOD	              -	      B-A2	(PP*
+90365	2815755985_0fa55544c0.jpg#6	5	a	1	        DT	      B-NP	6	NMOD	              -	      I-A2	(NP*
+90365	2815755985_0fa55544c0.jpg#6	6	bed	bed	        NN	      E-NP	4	PMOD	              -	      E-A2	*))
+90365	2815755985_0fa55544c0.jpg#6	7	with	with	        IN	      S-PP	6	NMOD	              -	  B-AM-MNR	(PP*
+90365	2815755985_0fa55544c0.jpg#6	8	a	1	        DT	      B-NP	9	NMOD	              -	  I-AM-MNR	(NP*
+90365	2815755985_0fa55544c0.jpg#6	9	laptop	laptop	        NN	      E-NP	7	PMOD	              -	  E-AM-MNR	*)))))
+90379	2868136205_3cf679208d.jpg#6	1	a	1	        DT	      B-NP	3	NMOD	              -	      B-A1	(S1(NP(NP*
+90379	2868136205_3cf679208d.jpg#6	2	little	little	        JJ	      I-NP	3	NMOD	              -	      I-A1	*
+90379	2868136205_3cf679208d.jpg#6	3	boy	boy	        NN	      E-NP	0	ROOT	              -	      E-A1	*)
+90379	2868136205_3cf679208d.jpg#6	4	that	that	       WDT	      S-NP	3	NMOD	              -	    S-R-A1	(SBAR(WHNP*)
+90379	2868136205_3cf679208d.jpg#6	5	is	be	       VBZ	      B-VP	4	SBAR	              -	         O	(S(VP*
+90379	2868136205_3cf679208d.jpg#6	6	sitting	sit	       VBG	      E-VP	5	VC	        sitting	       S-V	(VP*
+90379	2868136205_3cf679208d.jpg#6	7	on	on	        IN	      S-PP	6	VMOD	              -	      B-A2	(PP*
+90379	2868136205_3cf679208d.jpg#6	8	a	1	        DT	      B-NP	9	NMOD	              -	      I-A2	(NP*
+90379	2868136205_3cf679208d.jpg#6	9	bench	bench	        NN	      E-NP	7	PMOD	              -	      E-A2	*))))))))
+90381	2872197070_4e97c3ccfa.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90381	2872197070_4e97c3ccfa.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90381	2872197070_4e97c3ccfa.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90381	2872197070_4e97c3ccfa.jpg#6	4	sitting	sit	       VBG	      E-VP	3	VC	        sitting	       S-V	(VP*
+90381	2872197070_4e97c3ccfa.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90381	2872197070_4e97c3ccfa.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90381	2872197070_4e97c3ccfa.jpg#6	7	boat	boat	        NN	      E-NP	5	PMOD	              -	      I-A2	*))))
+90381	2872197070_4e97c3ccfa.jpg#6	8	in	in	        IN	      S-PP	7	NMOD	              -	      I-A2	(PP*
+90381	2872197070_4e97c3ccfa.jpg#6	9	the	the	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90381	2872197070_4e97c3ccfa.jpg#6	10	water	water	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))
+90383	2874984466_1aafec2c9f.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90383	2874984466_1aafec2c9f.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90383	2874984466_1aafec2c9f.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90383	2874984466_1aafec2c9f.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90383	2874984466_1aafec2c9f.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90383	2874984466_1aafec2c9f.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90383	2874984466_1aafec2c9f.jpg#6	7	grass	grass	        NN	      E-NP	5	PMOD	              -	      E-A2	*))
+90383	2874984466_1aafec2c9f.jpg#6	8	with	with	        IN	      S-PP	4	VMOD	              -	  B-AM-MNR	(PP*
+90383	2874984466_1aafec2c9f.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP*
+90383	2874984466_1aafec2c9f.jpg#6	10	frisbee	frisbee	        NN	      E-NP	8	PMOD	              -	  E-AM-MNR	*))))))
+90401	2904997007_23d4b94101.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90401	2904997007_23d4b94101.jpg#6	2	woman	woman	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90401	2904997007_23d4b94101.jpg#6	3	sitting	sit	       VBG	      S-VP	0	ROOT	        sitting	       S-V	(VP*
+90401	2904997007_23d4b94101.jpg#6	4	on	on	        IN	      S-PP	3	VMOD	              -	      B-A2	(PP*
+90401	2904997007_23d4b94101.jpg#6	5	a	1	        DT	      B-NP	6	NMOD	              -	      I-A2	(NP*
+90401	2904997007_23d4b94101.jpg#6	6	bed	bed	        NN	      E-NP	4	PMOD	              -	      E-A2	*))
+90401	2904997007_23d4b94101.jpg#6	7	with	with	        IN	      S-PP	6	NMOD	              -	  B-AM-MNR	(PP*
+90401	2904997007_23d4b94101.jpg#6	8	a	1	        DT	      B-NP	9	NMOD	              -	  I-AM-MNR	(NP*
+90401	2904997007_23d4b94101.jpg#6	9	laptop	laptop	        NN	      E-NP	7	PMOD	              -	  E-AM-MNR	*)))))
+90422	2942311160_a154104c62.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP(NP*
+90422	2942311160_a154104c62.jpg#6	2	person	person	        NN	      E-NP	6	SUB	              -	      I-A1	*)
+90422	2942311160_a154104c62.jpg#6	3	on	on	        IN	      S-PP	2	NMOD	              -	      I-A1	(PP*
+90422	2942311160_a154104c62.jpg#6	4	a	1	        DT	      B-NP	5	NMOD	              -	      I-A1	(NP*
+90422	2942311160_a154104c62.jpg#6	5	motorcycle	motorcycle	        NN	      E-NP	3	PMOD	              -	      E-A1	*)))
+90422	2942311160_a154104c62.jpg#6	6	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90422	2942311160_a154104c62.jpg#6	7	parked	park	       VBN	      E-VP	6	VC	         parked	       S-V	(VP*
+90422	2942311160_a154104c62.jpg#6	8	on	on	        IN	      S-PP	7	VMOD	              -	      B-A2	(PP*
+90422	2942311160_a154104c62.jpg#6	9	the	the	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90422	2942311160_a154104c62.jpg#6	10	beach	beach	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))))
+90424	2944025729_5aecda30ee.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90424	2944025729_5aecda30ee.jpg#6	2	person	person	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90424	2944025729_5aecda30ee.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90424	2944025729_5aecda30ee.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90424	2944025729_5aecda30ee.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90424	2944025729_5aecda30ee.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90424	2944025729_5aecda30ee.jpg#6	7	skateboard	skateboard	        NN	      E-NP	5	PMOD	              -	      I-A2	*))))
+90424	2944025729_5aecda30ee.jpg#6	8	in	in	        IN	      S-PP	7	NMOD	              -	      I-A2	(PP*
+90424	2944025729_5aecda30ee.jpg#6	9	the	the	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90424	2944025729_5aecda30ee.jpg#6	10	air	air	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))
+90428	2975118353_5af5a5df54.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	      B-A0	(S1(NP(NP(NP*
+90428	2975118353_5af5a5df54.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	      E-A0	*)
+90428	2975118353_5af5a5df54.jpg#6	3	flying	fly	       VBG	      S-VP	0	ROOT	         flying	       S-V	         O	(VP*
+90428	2975118353_5af5a5df54.jpg#6	4	through	through	        IN	      S-PP	3	VMOD	              -	  B-AM-DIR	         O	(PP*
+90428	2975118353_5af5a5df54.jpg#6	5	the	the	        DT	      B-NP	6	NMOD	              -	  I-AM-DIR	         O	(NP*
+90428	2975118353_5af5a5df54.jpg#6	6	air	air	        NN	      E-NP	4	PMOD	              -	  E-AM-DIR	         O	*))))
+90428	2975118353_5af5a5df54.jpg#6	7	while	while	        IN	    S-SBAR	3	VMOD	              -	  B-AM-TMP	         O	(SBAR*
+90428	2975118353_5af5a5df54.jpg#6	8	riding	ride	       VBG	      S-VP	7	SBAR	         riding	  I-AM-TMP	       S-V	(S(VP*
+90428	2975118353_5af5a5df54.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-TMP	      B-A1	(NP*
+90428	2975118353_5af5a5df54.jpg#6	10	snowboard	snowboard	        NN	      E-NP	8	OBJ	              -	  E-AM-TMP	      E-A1	*))))))
+90430	2976684095_ce7ccfd423.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90430	2976684095_ce7ccfd423.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90430	2976684095_ce7ccfd423.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90430	2976684095_ce7ccfd423.jpg#6	4	jumping	jump	       VBG	      E-VP	3	VC	        jumping	       S-V	(VP*
+90430	2976684095_ce7ccfd423.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	  B-AM-LOC	(PP*
+90430	2976684095_ce7ccfd423.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	  I-AM-LOC	(NP*
+90430	2976684095_ce7ccfd423.jpg#6	7	air	air	        NN	      E-NP	5	PMOD	              -	  E-AM-LOC	*))
+90430	2976684095_ce7ccfd423.jpg#6	8	with	with	        IN	      S-PP	7	NMOD	              -	  B-AM-MNR	(PP*
+90430	2976684095_ce7ccfd423.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP*
+90430	2976684095_ce7ccfd423.jpg#6	10	frisbee	frisbee	        NN	      E-NP	8	PMOD	              -	  E-AM-MNR	*))))))
+90460	3043904009_3b5e0412cd.jpg#6	1	a	1	        DT	      B-NP	3	NMOD	              -	      B-A1	(S1(NP(NP*
+90460	3043904009_3b5e0412cd.jpg#6	2	laptop	laptop	        NN	      I-NP	3	NMOD	              -	      I-A1	*
+90460	3043904009_3b5e0412cd.jpg#6	3	computer	computer	        NN	      E-NP	0	ROOT	              -	      E-A1	*)
+90460	3043904009_3b5e0412cd.jpg#6	4	sitting	sit	       VBG	      S-VP	3	NMOD	        sitting	       S-V	(VP*
+90460	3043904009_3b5e0412cd.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90460	3043904009_3b5e0412cd.jpg#6	6	top	top	        NN	      S-NP	5	PMOD	              -	      I-A2	(NP(NP*)
+90460	3043904009_3b5e0412cd.jpg#6	7	of	of	        IN	      S-PP	6	NMOD	              -	      I-A2	(PP*
+90460	3043904009_3b5e0412cd.jpg#6	8	a	1	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90460	3043904009_3b5e0412cd.jpg#6	9	wooden	wooden	        JJ	      I-NP	10	NMOD	              -	      I-A2	*
+90460	3043904009_3b5e0412cd.jpg#6	10	desk	desk	        NN	      E-NP	7	PMOD	              -	      E-A2	*)))))))
+90505	3159641529_c2c74f3eaf.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	      B-A0	(S1(S(NP*
+90505	3159641529_c2c74f3eaf.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	      E-A0	*)
+90505	3159641529_c2c74f3eaf.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	         O	(VP*
+90505	3159641529_c2c74f3eaf.jpg#6	4	jumping	jump	       VBG	      E-VP	3	VC	        jumping	       S-V	         O	(VP*
+90505	3159641529_c2c74f3eaf.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	  B-AM-LOC	         O	(PP*
+90505	3159641529_c2c74f3eaf.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	  I-AM-LOC	         O	(NP*
+90505	3159641529_c2c74f3eaf.jpg#6	7	air	air	        NN	      E-NP	5	PMOD	              -	  E-AM-LOC	         O	*))))
+90505	3159641529_c2c74f3eaf.jpg#6	8	to	to	        TO	      B-VP	9	VMOD	              -	  B-AM-PNC	         O	(S(VP*
+90505	3159641529_c2c74f3eaf.jpg#6	9	catch	catch	        VB	      E-VP	4	VMOD	          catch	  I-AM-PNC	       S-V	(VP*
+90505	3159641529_c2c74f3eaf.jpg#6	10	a	1	        DT	      B-NP	11	NMOD	              -	  I-AM-PNC	      B-A1	(NP*
+90505	3159641529_c2c74f3eaf.jpg#6	11	frisbee	frisbee	        NN	      E-NP	9	OBJ	              -	  E-AM-PNC	      E-A1	*))))))
+90542	3207343907_995f7ac1d2.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	         O	(S1(NP(NP*
+90542	3207343907_995f7ac1d2.jpg#6	2	group	group	        NN	      E-NP	12	NMOD	              -	         O	*)
+90542	3207343907_995f7ac1d2.jpg#6	3	of	of	        IN	      S-PP	2	NMOD	              -	         O	(PP*
+90542	3207343907_995f7ac1d2.jpg#6	4	people	people	       NNS	      S-NP	3	PMOD	              -	      S-A1	(NP*))
+90542	3207343907_995f7ac1d2.jpg#6	5	standing	stand	       VBG	      S-VP	4	NMOD	       standing	       S-V	(VP*
+90542	3207343907_995f7ac1d2.jpg#6	6	on	on	        IN	      S-PP	5	VMOD	              -	      B-A2	(PP*
+90542	3207343907_995f7ac1d2.jpg#6	7	top	top	        NN	      S-NP	6	PMOD	              -	      I-A2	(NP(NP*)
+90542	3207343907_995f7ac1d2.jpg#6	8	of	of	        IN	      S-PP	7	NMOD	              -	      I-A2	(PP*
+90542	3207343907_995f7ac1d2.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90542	3207343907_995f7ac1d2.jpg#6	10	snow	snow	        NN	      I-NP	8	PMOD	              -	      I-A2	*
+90542	3207343907_995f7ac1d2.jpg#6	11	covered	cover	       VBN	      I-NP	0	ROOT	              -	      I-A2	*
+90542	3207343907_995f7ac1d2.jpg#6	12	slope	slope	        NN	      E-NP	0	ROOT	              -	      E-A2	*)))))))
+90547	3211210739_3dea005fde.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP*
+90547	3211210739_3dea005fde.jpg#6	2	man	man	        NN	      E-NP	0	ROOT	              -	      E-A0	*)
+90547	3211210739_3dea005fde.jpg#6	3	riding	ride	       VBG	      S-VP	2	NMOD	         riding	       S-V	(VP*
+90547	3211210739_3dea005fde.jpg#6	4	a	1	        DT	      B-NP	5	NMOD	              -	      B-A1	(NP(NP*
+90547	3211210739_3dea005fde.jpg#6	5	skateboard	skateboard	        NN	      E-NP	3	OBJ	              -	      E-A1	*)
+90547	3211210739_3dea005fde.jpg#6	6	on	on	        IN	      S-PP	3	VMOD	              -	  B-AM-LOC	(PP*
+90547	3211210739_3dea005fde.jpg#6	7	top	top	        NN	      S-NP	6	PMOD	              -	  I-AM-LOC	(NP(NP*)
+90547	3211210739_3dea005fde.jpg#6	8	of	of	        IN	      S-PP	7	NMOD	              -	  I-AM-LOC	(PP*
+90547	3211210739_3dea005fde.jpg#6	9	a	1	        DT	      B-NP	11	NMOD	              -	  I-AM-LOC	(NP*
+90547	3211210739_3dea005fde.jpg#6	10	metal	metal	        NN	      I-NP	11	NMOD	              -	  I-AM-LOC	*
+90547	3211210739_3dea005fde.jpg#6	11	rail	rail	        NN	      E-NP	8	PMOD	              -	  E-AM-LOC	*))))))))
+90553	3215870337_c92a1a1b2f.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP(NP*
+90553	3215870337_c92a1a1b2f.jpg#6	2	group	group	        NN	      E-NP	5	SUB	              -	      I-A1	*)
+90553	3215870337_c92a1a1b2f.jpg#6	3	of	of	        IN	      S-PP	2	NMOD	              -	      I-A1	(PP*
+90553	3215870337_c92a1a1b2f.jpg#6	4	people	people	       NNS	      S-NP	3	PMOD	              -	      E-A1	(NP*)))
+90553	3215870337_c92a1a1b2f.jpg#6	5	standing	stand	       VBG	      S-VP	0	ROOT	       standing	       S-V	(VP*
+90553	3215870337_c92a1a1b2f.jpg#6	6	around	around	        IN	      S-PP	5	VMOD	              -	      B-A2	(PP*
+90553	3215870337_c92a1a1b2f.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      I-A2	(NP*
+90553	3215870337_c92a1a1b2f.jpg#6	8	table	table	        NN	      E-NP	6	PMOD	              -	      E-A2	*))
+90553	3215870337_c92a1a1b2f.jpg#6	9	with	with	        IN	      S-PP	5	VMOD	              -	  B-AM-MNR	(PP*
+90553	3215870337_c92a1a1b2f.jpg#6	10	a	1	        DT	      B-NP	12	NMOD	              -	  I-AM-MNR	(NP(NP*
+90553	3215870337_c92a1a1b2f.jpg#6	11	large	large	        JJ	      I-NP	12	NMOD	              -	  I-AM-MNR	*
+90553	3215870337_c92a1a1b2f.jpg#6	12	amount	amount	        NN	      E-NP	9	PMOD	              -	  I-AM-MNR	*)
+90553	3215870337_c92a1a1b2f.jpg#6	13	of	of	        IN	      S-PP	12	NMOD	              -	  I-AM-MNR	(PP*
+90553	3215870337_c92a1a1b2f.jpg#6	14	food	food	        NN	      S-NP	13	PMOD	              -	  E-AM-MNR	(NP*)))))))
+90555	3217291172_10ef70af88.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(VP(NP(NP*
+90555	3217291172_10ef70af88.jpg#6	2	man	man	        NN	      E-NP	0	ROOT	              -	      E-A0	*)
+90555	3217291172_10ef70af88.jpg#6	3	in	in	        IN	      S-PP	2	NMOD	              -	         O	(PP*
+90555	3217291172_10ef70af88.jpg#6	4	a	1	        DT	      B-NP	8	NMOD	              -	         O	(NP*
+90555	3217291172_10ef70af88.jpg#6	5	suit	suit	        NN	      E-NP	8	NMOD	              -	         O	*)))
+90555	3217291172_10ef70af88.jpg#6	6	and	and	        CC	         O	8	NMOD	              -	         O	*
+90555	3217291172_10ef70af88.jpg#6	7	tie	tie	        VB	      B-VP	8	NMOD	            tie	       S-V	(VP*
+90555	3217291172_10ef70af88.jpg#6	8	standing	stand	        NN	      E-VP	3	PMOD	              -	      B-A1	(S(VP*
+90555	3217291172_10ef70af88.jpg#6	9	in	in	        IN	      S-PP	8	NMOD	              -	      I-A1	(PP*
+90555	3217291172_10ef70af88.jpg#6	10	front	front	        NN	      S-NP	9	PMOD	              -	      I-A1	(NP(NP*)
+90555	3217291172_10ef70af88.jpg#6	11	of	of	        IN	      S-PP	10	NMOD	              -	      I-A1	(PP*
+90555	3217291172_10ef70af88.jpg#6	12	a	1	        DT	      B-NP	13	NMOD	              -	      I-A1	(NP*
+90555	3217291172_10ef70af88.jpg#6	13	building	building	        NN	      E-NP	11	PMOD	              -	      E-A1	*)))))))))
+90567	3231596071_f0c522a639.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(S(NP(NP*
+90567	3231596071_f0c522a639.jpg#6	2	man	man	        NN	      E-NP	8	SUB	              -	      I-A0	*)
+90567	3231596071_f0c522a639.jpg#6	3	in	in	        IN	      S-PP	2	NMOD	              -	      I-A0	(PP*
+90567	3231596071_f0c522a639.jpg#6	4	a	1	        DT	      B-NP	7	NMOD	              -	      I-A0	(NP*
+90567	3231596071_f0c522a639.jpg#6	5	suit	suit	        NN	      I-NP	7	NMOD	              -	      I-A0	*
+90567	3231596071_f0c522a639.jpg#6	6	and	and	        CC	      I-NP	7	NMOD	              -	      I-A0	*
+90567	3231596071_f0c522a639.jpg#6	7	tie	tie	        NN	      E-NP	3	PMOD	              -	      E-A0	*)))
+90567	3231596071_f0c522a639.jpg#6	8	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90567	3231596071_f0c522a639.jpg#6	9	holding	hold	       VBG	      E-VP	8	VC	        holding	       S-V	(VP*
+90567	3231596071_f0c522a639.jpg#6	10	a	1	        DT	      B-NP	12	NMOD	              -	      B-A1	(NP*
+90567	3231596071_f0c522a639.jpg#6	11	cell	cell	        NN	      I-NP	12	NMOD	              -	      I-A1	*
+90567	3231596071_f0c522a639.jpg#6	12	phone	phone	        NN	      E-NP	9	OBJ	              -	      E-A1	*)))))
+90576	3242088278_43eea5d17e.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(X(S(NP*
+90576	3242088278_43eea5d17e.jpg#6	2	bird	bird	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90576	3242088278_43eea5d17e.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90576	3242088278_43eea5d17e.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90576	3242088278_43eea5d17e.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90576	3242088278_43eea5d17e.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90576	3242088278_43eea5d17e.jpg#6	7	rock	rock	        NN	      E-NP	5	PMOD	              -	      I-A2	*)))))
+90576	3242088278_43eea5d17e.jpg#6	8	in	in	        IN	      S-PP	7	NMOD	              -	      I-A2	(PP*
+90576	3242088278_43eea5d17e.jpg#6	9	the	the	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90576	3242088278_43eea5d17e.jpg#6	10	water	water	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))
+90581	3249062399_0dafe5e4f5.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90581	3249062399_0dafe5e4f5.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90581	3249062399_0dafe5e4f5.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90581	3249062399_0dafe5e4f5.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90581	3249062399_0dafe5e4f5.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP(PP*
+90581	3249062399_0dafe5e4f5.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90581	3249062399_0dafe5e4f5.jpg#6	7	sidewalk	sidewalk	        NN	      E-NP	5	PMOD	              -	      I-A2	*))
+90581	3249062399_0dafe5e4f5.jpg#6	8	with	with	        IN	      S-PP	4	VMOD	              -	      I-A2	(PP*
+90581	3249062399_0dafe5e4f5.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90581	3249062399_0dafe5e4f5.jpg#6	10	skateboard	skateboard	        NN	      E-NP	8	PMOD	              -	      E-A2	*)))))))
+90599	3273969811_42e9fa8f63.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(X(S(NP*
+90599	3273969811_42e9fa8f63.jpg#6	2	bird	bird	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90599	3273969811_42e9fa8f63.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90599	3273969811_42e9fa8f63.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90599	3273969811_42e9fa8f63.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90599	3273969811_42e9fa8f63.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90599	3273969811_42e9fa8f63.jpg#6	7	rock	rock	        NN	      E-NP	5	PMOD	              -	      I-A2	*)))))
+90599	3273969811_42e9fa8f63.jpg#6	8	in	in	        IN	      S-PP	7	NMOD	              -	      I-A2	(PP*
+90599	3273969811_42e9fa8f63.jpg#6	9	the	the	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90599	3273969811_42e9fa8f63.jpg#6	10	water	water	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))
+90601	3278581900_8ce75a5332.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90601	3278581900_8ce75a5332.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90601	3278581900_8ce75a5332.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90601	3278581900_8ce75a5332.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90601	3278581900_8ce75a5332.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90601	3278581900_8ce75a5332.jpg#6	6	a	1	        DT	      B-NP	9	NMOD	              -	      I-A2	(NP(NP*
+90601	3278581900_8ce75a5332.jpg#6	7	snow	snow	        NN	      I-NP	9	NMOD	              -	      I-A2	*)
+90601	3278581900_8ce75a5332.jpg#6	8	covered	cover	       VBN	      I-NP	9	NMOD	              -	      I-A2	(PP*
+90601	3278581900_8ce75a5332.jpg#6	9	hill	hill	        NN	      E-NP	5	PMOD	              -	      E-A2	(NP*))))))))
+90609	3292277400_f95cdd13d1.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90609	3292277400_f95cdd13d1.jpg#6	2	horse	horse	        NN	      I-NP	0	ROOT	              -	      E-A1	*)
+90609	3292277400_f95cdd13d1.jpg#6	3	standing	stand	        NN	      E-NP	2	NMOD	       standing	       B-V	(VP*
+90609	3292277400_f95cdd13d1.jpg#6	4	in	in	        IN	      S-PP	3	VMOD	              -	       E-V	(PP*
+90609	3292277400_f95cdd13d1.jpg#6	5	a	1	        DT	      B-NP	6	NMOD	              -	      B-A1	(NP*
+90609	3292277400_f95cdd13d1.jpg#6	6	field	field	        NN	      E-NP	4	PMOD	              -	      E-A1	*))
+90609	3292277400_f95cdd13d1.jpg#6	7	with	with	        IN	      S-PP	3	VMOD	              -	  B-AM-MNR	(PP*
+90609	3292277400_f95cdd13d1.jpg#6	8	a	1	        DT	      B-NP	9	NMOD	              -	  I-AM-MNR	(NP(NP*
+90609	3292277400_f95cdd13d1.jpg#6	9	tree	tree	        NN	      E-NP	7	PMOD	              -	  E-AM-MNR	*)
+90609	3292277400_f95cdd13d1.jpg#6	10	in	in	        IN	      S-PP	9	NMOD	              -	         O	(PP*
+90609	3292277400_f95cdd13d1.jpg#6	11	the	the	        DT	      B-NP	12	NMOD	              -	         O	(NP*
+90609	3292277400_f95cdd13d1.jpg#6	12	background	background	        NN	      E-NP	10	PMOD	              -	         O	*)))))))
+90796	3559374748_f18c7caa55.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(NP(NP*
+90796	3559374748_f18c7caa55.jpg#6	2	car	car	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90796	3559374748_f18c7caa55.jpg#6	3	parked	park	       VBN	      S-VP	0	ROOT	         parked	       S-V	(VP*
+90796	3559374748_f18c7caa55.jpg#6	4	in	in	        IN	      S-PP	3	VMOD	              -	      B-A2	(PP*
+90796	3559374748_f18c7caa55.jpg#6	5	front	front	        NN	      S-NP	4	PMOD	              -	      I-A2	(NP(NP*)
+90796	3559374748_f18c7caa55.jpg#6	6	of	of	        IN	      S-PP	5	NMOD	              -	      I-A2	(PP*
+90796	3559374748_f18c7caa55.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      I-A2	(NP*
+90796	3559374748_f18c7caa55.jpg#6	8	truck	truck	        NN	      E-NP	6	PMOD	              -	      E-A2	*)))))))
+90799	3561433412_3985208d53.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90799	3561433412_3985208d53.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90799	3561433412_3985208d53.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90799	3561433412_3985208d53.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90799	3561433412_3985208d53.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90799	3561433412_3985208d53.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90799	3561433412_3985208d53.jpg#6	7	grass	grass	        NN	      E-NP	5	PMOD	              -	      E-A2	*))
+90799	3561433412_3985208d53.jpg#6	8	with	with	        IN	      S-PP	4	VMOD	              -	  B-AM-MNR	(PP*
+90799	3561433412_3985208d53.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP*
+90799	3561433412_3985208d53.jpg#6	10	frisbee	frisbee	        NN	      E-NP	8	PMOD	              -	  E-AM-MNR	*))))))
+90802	3568225554_73cdb19576.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	(S1(NP(NP*
+90802	3568225554_73cdb19576.jpg#6	2	person	person	        NN	      E-NP	0	ROOT	              -	*)
+90802	3568225554_73cdb19576.jpg#6	3	on	on	        IN	      S-PP	2	NMOD	              -	(PP*
+90802	3568225554_73cdb19576.jpg#6	4	a	1	        DT	      B-NP	5	NMOD	              -	(NP*
+90802	3568225554_73cdb19576.jpg#6	5	surfboard	surfboard	        NN	      E-NP	3	PMOD	              -	*))
+90802	3568225554_73cdb19576.jpg#6	6	in	in	        IN	      S-PP	5	NMOD	              -	(PP*
+90802	3568225554_73cdb19576.jpg#6	7	the	the	        DT	      B-NP	8	NMOD	              -	(NP*
+90802	3568225554_73cdb19576.jpg#6	8	water	water	        NN	      E-NP	6	PMOD	              -	*))))
+90804	3572144280_ea42bbd927.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90804	3572144280_ea42bbd927.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90804	3572144280_ea42bbd927.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90804	3572144280_ea42bbd927.jpg#6	4	sitting	sit	       VBG	      E-VP	3	VC	        sitting	       S-V	(VP*
+90804	3572144280_ea42bbd927.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90804	3572144280_ea42bbd927.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90804	3572144280_ea42bbd927.jpg#6	7	boat	boat	        NN	      E-NP	5	PMOD	              -	      I-A2	*))))
+90804	3572144280_ea42bbd927.jpg#6	8	in	in	        IN	      S-PP	7	NMOD	              -	      I-A2	(PP*
+90804	3572144280_ea42bbd927.jpg#6	9	the	the	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90804	3572144280_ea42bbd927.jpg#6	10	water	water	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))
+90812	3587596696_9c5964c94d.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP*
+90812	3587596696_9c5964c94d.jpg#6	2	man	man	        NN	      E-NP	3	NMOD	              -	      E-A0	*)
+90812	3587596696_9c5964c94d.jpg#6	3	holding	hold	       VBG	      S-VP	0	ROOT	        holding	       S-V	(VP*
+90812	3587596696_9c5964c94d.jpg#6	4	a	1	        DT	      B-NP	5	NMOD	              -	      B-A1	(NP(NP*
+90812	3587596696_9c5964c94d.jpg#6	5	plate	plate	        NN	      E-NP	3	OBJ	              -	      I-A1	*)
+90812	3587596696_9c5964c94d.jpg#6	6	of	of	        IN	      S-PP	5	NMOD	              -	      I-A1	(PP*
+90812	3587596696_9c5964c94d.jpg#6	7	food	food	        NN	      S-NP	6	PMOD	              -	      E-A1	(NP*)))
+90812	3587596696_9c5964c94d.jpg#6	8	with	with	        IN	      S-PP	3	VMOD	              -	      B-A2	(PP*
+90812	3587596696_9c5964c94d.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90812	3587596696_9c5964c94d.jpg#6	10	knife	knife	        NN	      E-NP	8	PMOD	              -	      E-A2	*)))))
+90837	3646820231_2abc736840.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP(NP*
+90837	3646820231_2abc736840.jpg#6	2	group	group	        NN	      E-NP	5	SUB	              -	      I-A1	*)
+90837	3646820231_2abc736840.jpg#6	3	of	of	        IN	      S-PP	2	NMOD	              -	      I-A1	(PP*
+90837	3646820231_2abc736840.jpg#6	4	elephants	elephant	       NNS	      S-NP	3	PMOD	              -	      E-A1	(NP*)))
+90837	3646820231_2abc736840.jpg#6	5	standing	stand	       VBG	      S-VP	0	ROOT	       standing	       S-V	(VP*
+90837	3646820231_2abc736840.jpg#6	6	next	next	        RB	    S-ADVP	5	VMOD	              -	  S-AM-DIR	(ADVP*)
+90837	3646820231_2abc736840.jpg#6	7	to	to	        TO	      S-PP	5	VMOD	              -	      B-A2	(PP*
+90837	3646820231_2abc736840.jpg#6	8	each	each	        DT	      B-NP	9	NMOD	              -	      I-A2	(NP*
+90837	3646820231_2abc736840.jpg#6	9	other	other	        JJ	      E-NP	7	PMOD	              -	      E-A2	*)))))
+90841	3656225270_cdf89e3240.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	         O	(S1(S(NP*
+90841	3656225270_cdf89e3240.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	         O	*)
+90841	3656225270_cdf89e3240.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	         O	(VP*
+90841	3656225270_cdf89e3240.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	         O	(VP*
+90841	3656225270_cdf89e3240.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	         O	(PP*
+90841	3656225270_cdf89e3240.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	      B-A1	(NP*
+90841	3656225270_cdf89e3240.jpg#6	7	beach	beach	        NN	      E-NP	5	PMOD	              -	      I-A2	      E-A1	*))
+90841	3656225270_cdf89e3240.jpg#6	8	holding	hold	       VBG	      S-VP	7	NMOD	        holding	      I-A2	       S-V	(S(VP*
+90841	3656225270_cdf89e3240.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	      I-A2	      B-A1	(NP*
+90841	3656225270_cdf89e3240.jpg#6	10	surfboard	surfboard	        NN	      E-NP	8	OBJ	              -	      E-A2	      E-A1	*)))))))
+90843	3663951804_868982f3f9.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(S(NP*
+90843	3663951804_868982f3f9.jpg#6	2	man	man	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90843	3663951804_868982f3f9.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90843	3663951804_868982f3f9.jpg#6	4	jumping	jump	       VBG	      E-VP	3	VC	        jumping	       S-V	(VP*
+90843	3663951804_868982f3f9.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	  B-AM-LOC	(PP*
+90843	3663951804_868982f3f9.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	  I-AM-LOC	(NP*
+90843	3663951804_868982f3f9.jpg#6	7	air	air	        NN	      E-NP	5	PMOD	              -	  E-AM-LOC	*))
+90843	3663951804_868982f3f9.jpg#6	8	with	with	        IN	      S-PP	7	NMOD	              -	  B-AM-MNR	(PP*
+90843	3663951804_868982f3f9.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-MNR	(NP*
+90843	3663951804_868982f3f9.jpg#6	10	skateboard	skateboard	        NN	      E-NP	8	PMOD	              -	  E-AM-MNR	*))))))
+90863	3695064885_a6922f06b2.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	      B-A0	(S1(S(NP*
+90863	3695064885_a6922f06b2.jpg#6	2	dog	dog	        NN	      E-NP	3	SUB	              -	      E-A1	      E-A0	*)
+90863	3695064885_a6922f06b2.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	         O	(VP*
+90863	3695064885_a6922f06b2.jpg#6	4	jumping	jump	       VBG	      E-VP	3	VC	        jumping	       S-V	         O	(VP*
+90863	3695064885_a6922f06b2.jpg#6	5	in	in	        IN	      S-PP	4	VMOD	              -	  B-AM-LOC	         O	(PP*
+90863	3695064885_a6922f06b2.jpg#6	6	the	the	        DT	      B-NP	7	NMOD	              -	  I-AM-LOC	         O	(NP*
+90863	3695064885_a6922f06b2.jpg#6	7	air	air	        NN	      E-NP	5	PMOD	              -	  E-AM-LOC	         O	*))))
+90863	3695064885_a6922f06b2.jpg#6	8	to	to	        TO	      B-VP	9	VMOD	              -	  B-AM-PNC	         O	(S(VP*
+90863	3695064885_a6922f06b2.jpg#6	9	catch	catch	        VB	      E-VP	4	VMOD	          catch	  I-AM-PNC	       S-V	(VP*
+90863	3695064885_a6922f06b2.jpg#6	10	a	1	        DT	      B-NP	11	NMOD	              -	  I-AM-PNC	      B-A1	(NP*
+90863	3695064885_a6922f06b2.jpg#6	11	frisbee	frisbee	        NN	      E-NP	9	OBJ	              -	  E-AM-PNC	      E-A1	*))))))
+90868	3704698586_a42c25d0c1.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP*
+90868	3704698586_a42c25d0c1.jpg#6	2	man	man	        NN	      E-NP	0	ROOT	              -	      E-A0	*)
+90868	3704698586_a42c25d0c1.jpg#6	3	riding	ride	       VBG	      S-VP	2	NMOD	         riding	       S-V	(VP*
+90868	3704698586_a42c25d0c1.jpg#6	4	a	1	        DT	      B-NP	5	NMOD	              -	      B-A1	(NP*
+90868	3704698586_a42c25d0c1.jpg#6	5	skateboard	skateboard	        NN	      E-NP	3	OBJ	              -	      I-A1	*)
+90868	3704698586_a42c25d0c1.jpg#6	6	down	down	        IN	      S-PP	3	VMOD	              -	      I-A1	(PP*
+90868	3704698586_a42c25d0c1.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      I-A1	(NP*
+90868	3704698586_a42c25d0c1.jpg#6	8	street	street	        NN	      E-NP	6	PMOD	              -	      E-A1	*)))))
+90875	3716272233_7845ec5b3e.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A1	(S1(X(S(NP*
+90875	3716272233_7845ec5b3e.jpg#6	2	bird	bird	        NN	      E-NP	3	SUB	              -	      E-A1	*)
+90875	3716272233_7845ec5b3e.jpg#6	3	is	be	       VBZ	      B-VP	0	ROOT	              -	         O	(VP*
+90875	3716272233_7845ec5b3e.jpg#6	4	standing	stand	       VBG	      E-VP	3	VC	       standing	       S-V	(VP*
+90875	3716272233_7845ec5b3e.jpg#6	5	on	on	        IN	      S-PP	4	VMOD	              -	      B-A2	(PP*
+90875	3716272233_7845ec5b3e.jpg#6	6	a	1	        DT	      B-NP	7	NMOD	              -	      I-A2	(NP*
+90875	3716272233_7845ec5b3e.jpg#6	7	rock	rock	        NN	      E-NP	5	PMOD	              -	      I-A2	*)))))
+90875	3716272233_7845ec5b3e.jpg#6	8	in	in	        IN	      S-PP	7	NMOD	              -	      I-A2	(PP*
+90875	3716272233_7845ec5b3e.jpg#6	9	the	the	        DT	      B-NP	10	NMOD	              -	      I-A2	(NP*
+90875	3716272233_7845ec5b3e.jpg#6	10	water	water	        NN	      E-NP	8	PMOD	              -	      E-A2	*))))
+90879	3724581378_41049da264.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	      B-A0	(S1(NP(NP*
+90879	3724581378_41049da264.jpg#6	2	man	man	        NN	      E-NP	0	ROOT	              -	      E-A0	*)
+90879	3724581378_41049da264.jpg#6	3	riding	ride	       VBG	      S-VP	2	NMOD	         riding	       S-V	(VP*
+90879	3724581378_41049da264.jpg#6	4	a	1	        DT	      B-NP	5	NMOD	              -	      B-A1	(NP(NP*
+90879	3724581378_41049da264.jpg#6	5	wave	wave	        NN	      E-NP	3	OBJ	              -	      E-A1	*)
+90879	3724581378_41049da264.jpg#6	6	on	on	        IN	      S-PP	3	VMOD	              -	  B-AM-LOC	(PP*
+90879	3724581378_41049da264.jpg#6	7	top	top	        NN	      S-NP	6	PMOD	              -	  I-AM-LOC	(NP(NP*)
+90879	3724581378_41049da264.jpg#6	8	of	of	        IN	      S-PP	7	NMOD	              -	  I-AM-LOC	(PP*
+90879	3724581378_41049da264.jpg#6	9	a	1	        DT	      B-NP	10	NMOD	              -	  I-AM-LOC	(NP*
+90879	3724581378_41049da264.jpg#6	10	surfboard	surfboard	        NN	      E-NP	8	PMOD	              -	  E-AM-LOC	*))))))))
+90891	404850242_3a55a4c874.jpg#6	1	a	1	        DT	      B-NP	2	NMOD	              -	         O	         O	(S1(S(NP(NP*
+90891	404850242_3a55a4c874.jpg#6	2	group	group	        NN	      E-NP	5	SUB	              -	         O	         O	*)
+90891	404850242_3a55a4c874.jpg#6	3	of	of	        IN	      S-PP	2	NMOD	              -	         O	         O	(PP*
+90891	404850242_3a55a4c874.jpg#6	4	people	people	       NNS	      S-NP	3	PMOD	              -	      S-A1	         O	(NP*)))
+90891	404850242_3a55a4c874.jpg#6	5	standing	stand	       VBG	      S-VP	0	ROOT	       standing	       S-V	         O	(VP*
+90891	404850242_3a55a4c874.jpg#6	6	around	around	        IN	      S-PP	5	VMOD	              -	      B-A2	         O	(PP*
+90891	404850242_3a55a4c874.jpg#6	7	a	1	        DT	      B-NP	8	NMOD	              -	      I-A2	      B-A0	(NP(NP*
+90891	404850242_3a55a4c874.jpg#6	8	man	man	        NN	      E-NP	6	PMOD	              -	      I-A2	      E-A0	*)
+90891	404850242_3a55a4c874.jpg#6	9	holding	hold	       VBG	      S-VP	8	NMOD	        holding	      I-A2	       S-V	(VP*
+90891	404850242_3a55a4c874.jpg#6	10	a	1	        DT	      B-NP	12	NMOD	              -	      I-A2	      B-A1	(NP*
+90891	404850242_3a55a4c874.jpg#6	11	cell	cell	        NN	      I-NP	12	NMOD	              -	      I-A2	      I-A1	*
+90891	404850242_3a55a4c874.jpg#6	12	phone	phone	        NN	      E-NP	9	OBJ	              -	      E-A2	      E-A1	*)))))))
